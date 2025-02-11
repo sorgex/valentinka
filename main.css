@@ -1,3 +1,14 @@
+*{
+
+
+		font-family: "Caveat", serif;
+		font-optical-sizing: auto;
+		font-weight: <weight>;
+		font-style: normal;
+	
+	  
+}
+
 html{
 	user-select: none;
 }
