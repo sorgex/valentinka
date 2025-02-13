@@ -13,6 +13,7 @@ html{
 	user-select: none;
 }
 body{
+	background-image: url(photo_2025-02-13_20-39-11.jpg);
 	margin: 0 auto;
 	overflow-x: hidden;
 	height: 1100px;
@@ -73,5 +74,8 @@ body{
 	height: 150px;
 }
 h1{
+	background-color: rgb(255, 131, 255);
+	padding: 35px;
+	border-radius: 15px;
 	text-align: center;
 }
